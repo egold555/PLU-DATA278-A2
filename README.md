@@ -1,8 +1,8 @@
 # Data Viz A2
 
 ## Results
-[PDF](./#%20Results/EG%20Results.pdf)
-[PPTX](./#%20Results/EG%20Results.pptx)
+[PDF](./%23%20Results/EG%20Results.pdf)
+[PPTX](./%23%20Results/EG%20Results.pptx)
 
 ## Instructions
 ### Visulization
