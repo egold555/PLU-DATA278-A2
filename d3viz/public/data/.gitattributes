@@ -1,0 +1,8 @@
+NOAATempCyclist-2016OnlyWednesdays.csv filter=lfs diff=lfs merge=lfs -text
+NOAATempCyclist-CyclistsHour.csv filter=lfs diff=lfs merge=lfs -text
+NOAATempCyclist-CyclistsPerYear.csv filter=lfs diff=lfs merge=lfs -text
+NOAATempCyclist-MostPoplarDay.csv filter=lfs diff=lfs merge=lfs -text
+NOAATempCyclist-OnlyWednesdays.csv filter=lfs diff=lfs merge=lfs -text
+NOAATempCyclist-dotw.csv filter=lfs diff=lfs merge=lfs -text
+NOAATempCyclist.csv filter=lfs diff=lfs merge=lfs -text
+NOAATempCyclist-2016OnlySundays.csv filter=lfs diff=lfs merge=lfs -text
